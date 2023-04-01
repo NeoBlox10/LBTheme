@@ -1,7 +1,11 @@
 <theme>
     <name>testTheme</name>
     <skinType>1</skinType>
-    <description></description>
-    <previewUri></previewUri>
-	<author>G&J</author>
+    <description>testTheme description</description>
+    <previewUri>testTheme.jpg</previewUri>
+	<author>Aspette</author>
+	<version>2.67.0</version>
+    <dofusVersion>2.67</dofusVersion>
+    <creationDate>01/04/2023</creationDate>
+    <modificationDate>01/04/2023</modificationDate>
 </theme>
