@@ -1,0 +1,11 @@
+<theme>
+    <name>LBTheme</name>
+    <skinType>1</skinType>
+    <description>Theme de base en version sombre.</description>
+    <previewUri>LBTheme.jpg</previewUri>
+	<author>G&J</author>
+	<version>1.0</version>
+    <dofusVersion>2.67</dofusVersion>
+    <creationDate>01/04/2023</creationDate>
+    <modificationDate>01/04/2023</modificationDate>
+</theme>
